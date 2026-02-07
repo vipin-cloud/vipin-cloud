@@ -54,7 +54,7 @@ security, and reliability while supporting production environments.
 📫 **How to reach me** 
 
 -  **📧 [Email](mailto:vipintanwar83@gmail.com)**
--  **💼 [LinkedIn](www.linkedin.com/in/vipin-tanwar-715a13232)**
+-  **💼 [LinkedIn](https://www.linkedin.com/in/vipin-tanwar-715a13232/)**
 
 
   
