@@ -2,7 +2,7 @@
 
 <br>
 
-## 👋 Hi, I am [Vikash Kumar](https://www.linkedin.com/in/vikash-kumar-125678aa/), 
+## 👋 Hi, I am [Vipin Tanwar](https://www.linkedin.com/in/vikash-kumar-125678aa/), 
 
 <br>
 
