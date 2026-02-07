@@ -53,8 +53,8 @@ security, and reliability while supporting production environments.
 
 📫 **How to reach me** 
 
--  **📧 [Email](mailto:vikashkumar.redhat@gmail.com)**
--  **💼 [LinkedIn](https://www.linkedin.com/in/vikash-kumar-125678aa/)**
+-  **📧 [Email](mailto:vipintanwar83@gmail.com)**
+-  **💼 [LinkedIn](www.linkedin.com/in/vipin-tanwar-715a13232)**
 
 
   
