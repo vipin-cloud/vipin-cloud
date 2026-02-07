@@ -2,15 +2,16 @@
 
 <br>
 
-## 👋 Hi, I am [Vipin Tanwar](https://www.linkedin.com/in/vikash-kumar-125678aa/), 
+## 👋 Hi, I am [Vipin Tanwar](https://www.linkedin.com/in/vipin-tanwar-715a13232), 
 
 <br>
 
 
-**Dedicated and detail-oriented IT professional** with over **10 years of experience** as a **Sr. System Admin** from [🇮🇳](https://en.wikipedia.org/wiki/India) , as **DevOps Engineer** with 4 years of experience in designing, implementing, and managing robust, scalable, and secure CI/CD pipelines and infrastructure. Proven expertise in cloud platforms AWS, containerization (Docker, Kubernetes), infrastructure as code (Terraform, Ansible), monitoring (Prometheus, Grafana), and Bash scripting.
-
-I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
-<br></br>
+I am a technical professional specializing in maintaining and managing Linux servers with over 3+ years of 
+experience. I am proficient in RHEL administration, Apache web server management, filesystem configuration, 
+patching, and user account management. Experienced in Bash scripting for task automation, MySQL database 
+administration, and basic Google Cloud Platform (GCP) operations. Skilled in ensuring system performance, 
+security, and reliability while supporting production environments.
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/0*9lcu1vuPAL7nfXOk" width="600" height="300" >
 </div>
